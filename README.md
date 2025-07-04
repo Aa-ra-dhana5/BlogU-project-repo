@@ -28,15 +28,17 @@
 
 ### 1. Clone the repository
 
-```bash`
+```bash
 git clone https://github.com/Aa-ra-dhana5/BlogU-project-repo.git
 cd BlogU-project-repo
+```
 
 
 ### 2. Install dependencies
 
-```bash`
+```bash
 npm install
+```
 
 3. Configure Appwrite
 Go to https://cloud.appwrite.io or your Appwrite instance.
@@ -54,13 +56,13 @@ VITE_APPWRITE_COLLECTION_ID=your_collection_id
 VITE_APPWRITE_BUCKET_ID=your_bucket_id
 
 5. Run the development server
- ```bash `
+ ```bash 
  npm run dev
-
+```
 Open http://localhost:5173 to view it in your browser.
 
 
 
 **🙋‍♀️ Author**
-Developed with ❤️ by Aaradhana Parmar
+ --> Developed with ❤️ by Aaradhana Parmar
 
